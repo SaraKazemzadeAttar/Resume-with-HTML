@@ -1,0 +1,27 @@
+{
+  "name": "resume-with-html",
+  "version": "1.0.0",
+  "description": "My HTML_based resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraKazemzadeAttar/Resume-with-HTML.git"
+  },
+  "keywords": [
+    "[\"resume\"",
+    "\"html\"",
+    "\"cv\"]"
+  ],
+  "author": "Sara Kazemzade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaraKazemzadeAttar/Resume-with-HTML/issues"
+  },
+  "homepage": "https://github.com/SaraKazemzadeAttar/Resume-with-HTML#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
