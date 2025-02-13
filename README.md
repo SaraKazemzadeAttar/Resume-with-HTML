@@ -11,6 +11,3 @@ This project is my personal resume website built using HTML.
 ## How to Use
 1. Clone the repository.
 2. Open the `index.html` file in a web browser.
-
-## Technologies Used
-- HTML
